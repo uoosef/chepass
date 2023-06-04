@@ -2,6 +2,7 @@
 *.aar
 .gradle
 /app/src/libs/*
+/app/build
 /local.properties
 /.idea/caches
 /.idea/libraries
